@@ -22,6 +22,7 @@ To run 30 evolutionary computations for all configurations of the CRA case, for 
 
 **./experiment-runner.sh "usecases/CRA/target/classes/" "usecases/CRA/configs/" "usecases/CRA/"**
 
+The results will be stored in a new folder inside the respective use case folder.
 Please be aware that the MDEOptimiser argument specifying the path to the project folder (e.g. **usecases/CRA**) 
 should not contain backwards navigation (e.g., **usescases/../usecases/CRA**) as an Exception is thrown by MDEOptimiser in this case.
 
