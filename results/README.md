@@ -25,4 +25,4 @@ a positive value for Cliff's delta means that the variant in the header of the r
 A separate folder for each problem instance contains more in depth information about the performed evolutionary computations. The names of the files are chosen to be self-explanatory.
 
 ## Charts folder ##
-Based on the data in the analysis folder, charts contains visualizations of the progress of different metrics.
+Based on the data in the analysis folder, charts contains visualizations of the mean-n-effectiveness and cumulative approximation sets of all algorithm configurations.
