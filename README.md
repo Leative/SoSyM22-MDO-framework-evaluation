@@ -1,5 +1,10 @@
 # SoSyM22-MDO-framework-evaluation
-Artifacts for a paper submitted to SoSyM.
+Artifacts for the article *A Graph-Based Framework for Model-Driven Optimization Facilitating
+Impact Analysis of Mutation Operator Properties* published at the Software and Systems Modeling (SoSyM) journal in 2022.  
+DOI: <https://doi.org/10.1007/s10270-022-01078-x>
+
+A summary of the original article has additionally been published at the Software Engineering conference 2024.  
+DOI: *tba*
 
 ## MDEOptimiser ##
 A precompiled version of the optimzation tool MDEOptimiser (as of 29th of Juli 2021) is contained as a command line version in the folder **MDEOptimiser**. 
