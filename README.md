@@ -4,7 +4,7 @@ Impact Analysis of Mutation Operator Properties* published at the Software and S
 DOI: <https://doi.org/10.1007/s10270-022-01078-x>
 
 A summary of the original article has additionally been published at the Software Engineering conference 2024.  
-DOI: *tba*
+DOI: <https://doi.org/10.18420/sw2024_6>
 
 ## MDEOptimiser ##
 A precompiled version of the optimzation tool MDEOptimiser (as of 29th of Juli 2021) is contained as a command line version in the folder **MDEOptimiser**. 
